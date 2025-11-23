@@ -1,3 +1,4 @@
+```
 //This is a program  to check whether a number is prime or not
 
 import java.util.Scanner;
